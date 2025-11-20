@@ -2,7 +2,7 @@
 
 ## Установка
 ```shell
-
+git@github.com:AndreySirin/Hitalent.git
 ```
 ## Запуск
 ```shell
